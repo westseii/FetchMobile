@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Test App: FetchMobile</string>
+    <string name="retrieved_items">Retrieved items</string>
+    <string name="btn_retrieve">Retrieve Data</string>
+</resources>
